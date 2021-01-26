@@ -1,2 +1,4 @@
-## title here
-findings here
+## Log
+
+
+Findings:
