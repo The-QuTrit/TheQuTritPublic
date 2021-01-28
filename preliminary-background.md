@@ -13,8 +13,11 @@
 - Solving Soduku using Grover's Algorithm
   - [Qiskit](https://qiskit.org/textbook/ch-algorithms/grover.html#sudoku)
   - [Microsoft](https://docs.microsoft.com/en-us/samples/microsoft/quantum/solving-sudoku-using-grovers-algorithm/)
-
-
+ 
+Check out these links:
+https://github.com/rigetti/grove
+https://qiskit.org/textbook/ch-applications/qaoa.html#2-Examples:-
+https://pennylane.ai/qml/demos/tutorial_qaoa_maxcut.html
 
 ## Circuits Simulation
 - Wolfgang Scherer. Mathematics of Quantum Computing: An Introduction
