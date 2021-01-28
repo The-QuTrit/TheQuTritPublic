@@ -16,7 +16,9 @@
  
 Check out these links:
 https://github.com/rigetti/grove
+
 https://qiskit.org/textbook/ch-applications/qaoa.html#2-Examples:-
+
 https://pennylane.ai/qml/demos/tutorial_qaoa_maxcut.html
 
 ## Circuits Simulation
