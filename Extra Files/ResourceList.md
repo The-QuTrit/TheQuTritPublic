@@ -18,6 +18,7 @@
 - [Solve optimization problems by using quantum-inspired optimization. Microsoft Q#](https://docs.microsoft.com/en-us/learn/modules/solve-quantum-inspired-optimization-problems/)
 - [grove, rigetti](https://github.com/rigetti/grove)
 - [QAOA maxcut, pennylane](https://pennylane.ai/qml/demos/tutorial_qaoa_maxcut.html)
+- [A Tutorial on Quantum Approximate Optimization Algorithm (QAOA): Fundamentals and Applications](https://ieeexplore.ieee.org/abstract/document/8939749)
 - [QAOA, Quantum ML](https://www.youtube.com/watch?v=N8e5nAk6KBQ)
 - [QAOA, Shor](https://www.youtube.com/watch?v=HHIWUi3GmdM)
 - [QAOA explained, musty thoughts](https://www.mustythoughts.com/quantum-approximate-optimization-algorithm-explained)
