@@ -48,4 +48,4 @@
 ## Circuit Simulation
 - [Hadamard Gate Decomposition Intro](http://einsteinrelativelyeasy.com/index.php/quantum-mechanics/164-hadamard-gate-decomposition)
 - Wolfgang Scherer. Mathematics of Quantum Computing: An Introduction
-
+- Viamontes, Markov & Hayes. Quantum Circuit Simulation
