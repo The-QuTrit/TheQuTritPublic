@@ -16,6 +16,7 @@
 - [QAOA, Qiskit](https://qiskit.org/textbook/ch-applications/qaoa.html#2-Examples:-)
 - [QAOA, Google Cirq](https://quantumai.google/cirq/experiments/qaoa)
 - [Solve optimization problems by using quantum-inspired optimization. Microsoft Q#](https://docs.microsoft.com/en-us/learn/modules/solve-quantum-inspired-optimization-problems/)
+- [Lecture notes for Quantum Approximate Optimization Algorithm (QAOA). UMD](https://www.cs.umd.edu/class/fall2019/cmsc657/note/qaoa.pdf)
 - [grove, rigetti](https://github.com/rigetti/grove)
 - [QAOA maxcut, pennylane](https://pennylane.ai/qml/demos/tutorial_qaoa_maxcut.html)
 - [A Tutorial on Quantum Approximate Optimization Algorithm (QAOA): Fundamentals and Applications](https://ieeexplore.ieee.org/abstract/document/8939749)
