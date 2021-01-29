@@ -3,14 +3,13 @@
 ## Gradient Descent and QML
 
 ## MaxCut and QAOA
-### Graph Theory
 
 ### QAOA
 - [grove, rigetti](https://github.com/rigetti/grove)
 - [qaoa, qiskit](https://qiskit.org/textbook/ch-applications/qaoa.html#2-Examples:-)
 - [qaoa maxcut, pennylane](https://pennylane.ai/qml/demos/tutorial_qaoa_maxcut.html)
 
-#### Network Graphs
+### Network Graphs
 - [MIT's Math for CS.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf) Part.II Structures. Section.10 Communication Networks
 
 ### Algorithmic Graph Theory
