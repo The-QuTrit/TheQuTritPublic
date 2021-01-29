@@ -8,14 +8,16 @@
 - Schuld & Petruccione. Supervised Learning with Quantum Computers. Springer
 - Peter Wittek. Quantum Machine Learning: What Quantum Computing Means to Data Mining. Elsevier
 
-___
+
 
 ## MaxCut
 
 ### QAOA
+- [QAOA, Qiskit](https://qiskit.org/textbook/ch-applications/qaoa.html#2-Examples:-)
+- [QAOA, Google Cirq](https://quantumai.google/cirq/experiments/qaoa)
+- [Solve optimization problems by using quantum-inspired optimization. Microsoft Q#](https://docs.microsoft.com/en-us/learn/modules/solve-quantum-inspired-optimization-problems/)
 - [grove, rigetti](https://github.com/rigetti/grove)
-- [qaoa, qiskit](https://qiskit.org/textbook/ch-applications/qaoa.html#2-Examples:-)
-- [qaoa maxcut, pennylane](https://pennylane.ai/qml/demos/tutorial_qaoa_maxcut.html)
+- [QAOA maxcut, pennylane](https://pennylane.ai/qml/demos/tutorial_qaoa_maxcut.html)
 - [QAOA, Quantum ML](https://www.youtube.com/watch?v=N8e5nAk6KBQ)
 - [QAOA, Shor](https://www.youtube.com/watch?v=HHIWUi3GmdM)
 - [QAOA explained, musty thoughts](https://www.mustythoughts.com/quantum-approximate-optimization-algorithm-explained)
@@ -35,11 +37,11 @@ ___
   - [Qiskit](https://qiskit.org/textbook/ch-algorithms/grover.html#sudoku)
   - [Microsoft](https://docs.microsoft.com/en-us/samples/microsoft/quantum/solving-sudoku-using-grovers-algorithm/)
 
-___
+
 
 ## VQE
 
-___
+
 
 ## Circuit Simulation
 - [Hadamard Gate Decomposition Intro](http://einsteinrelativelyeasy.com/index.php/quantum-mechanics/164-hadamard-gate-decomposition)
