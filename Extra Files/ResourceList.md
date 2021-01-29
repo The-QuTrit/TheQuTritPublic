@@ -1,6 +1,14 @@
 # Resource list
 
 ## Gradient Descent and QML
+### Quantum Machine Learning
+- [QML. Qiskit](https://www.youtube.com/watch?v=OKbcJCUx6xA)
+- [QML. Uni of Toronto. Edx](https://www.edx.org/course/quantum-machine-learning?source=aw&awc=6798_1611938187_c31541afe17e5110423f58df0946958f&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=301045_https%3A%2F%2Fwww.class-central.com%2F)
+- Pattanayak. Quantum Machine Learning With Python: Using Cirq from Google Research and IBM Qiskit. Apress
+- Schuld & Petruccione. Supervised Learning with Quantum Computers. Springer
+- Peter Wittek. Quantum Machine Learning: What Quantum Computing Means to Data Mining. Elsevier
+
+___
 
 ## MaxCut
 
@@ -27,7 +35,11 @@
   - [Qiskit](https://qiskit.org/textbook/ch-algorithms/grover.html#sudoku)
   - [Microsoft](https://docs.microsoft.com/en-us/samples/microsoft/quantum/solving-sudoku-using-grovers-algorithm/)
 
+___
+
 ## VQE
+
+___
 
 ## Circuit Simulation
 - [Hadamard Gate Decomposition Intro](http://einsteinrelativelyeasy.com/index.php/quantum-mechanics/164-hadamard-gate-decomposition)
