@@ -24,6 +24,14 @@
 - [QAOA, Shor](https://www.youtube.com/watch?v=HHIWUi3GmdM)
 - [QAOA explained, musty thoughts](https://www.mustythoughts.com/quantum-approximate-optimization-algorithm-explained)
 
+### Quantum Variational Circuit
+- [Variational Quantum Linear Solver. Qiskit](https://qiskit.org/textbook/ch-paper-implementations/vqls.html)
+- [Variational Quantum Linear Solver. arXiv](https://arxiv.org/pdf/1909.05820.pdf)
+- [Simulating Molecules using VQE](https://qiskit.org/textbook/ch-applications/vqe-molecules.html)
+- [Variational Quantum Algorithms](https://arxiv.org/abs/2012.09265)
+- [Noisy intermediate-scale quantum (NISQ) algorithms](https://arxiv.org/abs/2101.08448)
+
+
 ### Max Cut
 - [Max Cut with QAOA](https://medium.com/@gerrard.gaurav/qaoa-explained-with-max-example-632a3f101f12#:~:text=Applying%20QAOA%20to%20MAXCUT%3A,in%20opposite%20sets%20is%20maximized.)
 
